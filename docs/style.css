@@ -208,6 +208,7 @@ body {
 
 .advanced-submit-row .adv-btn {
   background-color: #4d90fe;
+  background-image: linear-gradient(to bottom, #4d90fe, #4787ed);
   background-image: -webkit-linear-gradient(top, #4d90fe, #4787ed);
   border: 1px solid #3079ed;
   color: #ffffff;
@@ -224,6 +225,7 @@ body {
 
 .advanced-submit-row .adv-btn:hover {
   background-color: #357ae8;
+  background-image: linear-gradient(to bottom, #4d90fe, #357ae8);
   background-image: -webkit-linear-gradient(top, #4d90fe, #357ae8);
   border: 1px solid #2f5bb7;
 }
