@@ -228,5 +228,6 @@ body {
 }
 
 .advanced-submit-row .adv-btn:focus {
-  outline: none;
+  outline: 2px solid #4d90fe;
+  outline-offset: 2px;
 }
